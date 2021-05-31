@@ -21,4 +21,4 @@ Responsive Console Snake Game written in C#. In options it is possible to set pl
 
 ### Example
 
-![Decorator diagram](/Pictures/Game-Footage.jpg?raw=true )
+![Decorator diagram](/Pictures/Game-Footage.png?raw=true )
